@@ -1,7 +1,8 @@
-- 👋 Hi, I’m @Oku1-Android
+- 👋 Hi, I’m @Oku Imeh populary known as Oku1-Android
 - 👀 I’m interested in software dev
-- 🌱 I’m currently learning laravel frame work
+- 🌱 I’m a laravel frame work developer 
 - 💞️ I’m looking to collaborate on tasking projects
+- ❤️ I'm currently an ALX student 
 - 📫 How to reach me: you contact me through my gmail;imehoku1522@gmail.com, facebook;/Oku IMeh
 - 
 
