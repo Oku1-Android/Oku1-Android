@@ -3,7 +3,7 @@
 - 🌱 I’m a laravel frame work developer 
 - 💞️ I’m looking to collaborate on tasking projects
 - ❤️ I'm currently an ALX student 
-- 📫 How to reach me: you contact me through my gmail;imehoku1522@gmail.com, facebook;/Oku IMeh
+- 📫 How to reach me: contact me through my gmail;imehoku1522@gmail.com, facebook;/Oku Imeh
 -   LinkedIn: https://www.linkedin.com/in/oku-imeh-009447258/
 
 <!---
